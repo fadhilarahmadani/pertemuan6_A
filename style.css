@@ -79,6 +79,13 @@
   text-transform: lowercase;
 }
 
+/* text shadow */
+.shadow {
+  background-color: aqua;
+  color: white;
+  text-shadow: 2px 2px 4px black;
+}
+
 /* button */
 .button {
   width: 70px;
